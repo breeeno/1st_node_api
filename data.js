@@ -33,6 +33,7 @@ const users = [
     id: 7,
     nome: "breno7",
     email: "teste@teste.com"
-},
+}
 ]
+
 module.exports = users; 
